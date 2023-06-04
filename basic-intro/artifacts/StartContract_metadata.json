@@ -6,8 +6,10 @@
 	"output": {
 		"abi": [],
 		"devdoc": {
+			"author": "arn-ob",
 			"kind": "dev",
 			"methods": {},
+			"title": "This is a  contract",
 			"version": 1
 		},
 		"userdoc": {
@@ -33,11 +35,11 @@
 	},
 	"sources": {
 		"basic-intro/basic.sol": {
-			"keccak256": "0x366c026f7e1c724212a5aea66c86822f0c84ec9447fe1f77bd7af8d21c30125d",
+			"keccak256": "0x336e787bb000b9ef58f902a9ecbfd7a4d2a73978320d7e57ec792e94ac3b0b4b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2bed1ff17bd131d5072a1feb239b5e2d75c1a87a3acff11943ae15c2ed16c100",
-				"dweb:/ipfs/QmbSDtP5S1X7hp6QqtyEFev1RgGc7XHRaYdD2CwsRGiE9u"
+				"bzz-raw://ee434d1e668dd18ca68d305b9998594352edafb723ab4a95556d65de1c163001",
+				"dweb:/ipfs/QmP8hiCkREYKsgbsqs57MoiBdmSDL3qA9EEQKWSYjoJxFk"
 			]
 		}
 	},
