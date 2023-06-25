@@ -35,7 +35,7 @@
 				"name": "state",
 				"outputs": [
 					{
-						"internalType": "enum StartContract.State",
+						"internalType": "enum EnumContract.State",
 						"name": "",
 						"type": "uint8"
 					}
@@ -59,7 +59,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"basic-intro/basic.sol": "StartContract"
+			"basic-intro/basic.sol": "EnumContract"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -74,11 +74,11 @@
 	},
 	"sources": {
 		"basic-intro/basic.sol": {
-			"keccak256": "0xc6174d1b608290925bec54e5941808e78e1c9d4374bc44e24f2160b9f9b7450e",
+			"keccak256": "0x2146d15c7c322d10b79a133f4f1ad06c9eaf24879603523d1963eefa4139efbb",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4fb8bff3ad351d1bd1929a99aee84f7668aad0cac509f3ec03bec6ddf1b379af",
-				"dweb:/ipfs/QmTS37CBM2fvGYXkvkg6ejfgQ8jmgQabJXb7MpFb7nkPHy"
+				"bzz-raw://e245c3955ba6aa3f1fa8d193e7040403fd86a365db35904c876bce07a901cccc",
+				"dweb:/ipfs/QmYRz3ocgMLA4rpC5am5LTU3Xtau8cGWuyZ15E966tshqv"
 			]
 		}
 	},
